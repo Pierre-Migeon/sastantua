@@ -6,7 +6,7 @@ Usage:
 
 Example output:
 
-
+![5 levels of joy](https://github.com/Pierre-Migeon/sastantua/issues/1#issue-534307970)
 
 
 
